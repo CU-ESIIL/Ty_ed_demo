@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
+site_name: 'Ty Demo Site'
+site_description: 'github pages site for demo'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_url: https://cu-esiil.github.io/Ty_ed_demo
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: Ty_ed_demo
+repo_url: https://github.com/CU-ESIIL/Ty_ed_demo
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
