@@ -1,6 +1,4 @@
-[![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
-
-# Postdoc OASIS
+# My new project
 This is the central hub for information pertaining to ESIIL Postdocs
 
 # [Your Name]
